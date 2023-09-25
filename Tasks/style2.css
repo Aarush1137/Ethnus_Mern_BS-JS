@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 50px auto;
+    width: 300px;
+}
+
+#inputString, #outputString {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#alphabetizeButton {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
